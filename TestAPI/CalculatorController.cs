@@ -15,8 +15,8 @@ namespace MyApp.Namespace
         [HttpGet]
         public decimal Add(decimal number1, decimal number2)
         {  
-           decimal sum = number1 + number2;
-            return sum;
+           decimal AddResult = number1 + number2;
+            return AddResult;
         }
         
         [HttpGet]
@@ -28,20 +28,20 @@ namespace MyApp.Namespace
         [HttpGet]
         public decimal Multiply(decimal number1, decimal number2)
         {  
-           decimal MulResult = number1 * number2;
-            return MulResult;
+           decimal MultiplyResult = number1 * number2;
+            return MultiplyResult;
         }
         [HttpGet]
         public decimal Divide(decimal number1, decimal number2)
         {  
-           decimal DivResult = number1 / number2;
-            return DivResult;
+           decimal DivideResult = number1 / number2;
+            return DivideResult;
         }
         [HttpGet]
         public decimal Modulo(decimal number1, decimal number2)
         {  
-           decimal ModResult = number1 % number2;
-            return ModResult;
+           decimal ModuloResult = number1 % number2;
+            return ModuloResult;
       }
 
 }
