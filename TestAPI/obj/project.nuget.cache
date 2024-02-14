@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3vW1kiNWgwonO+0L0KCe9jg2QS5J4EtDv8pFLH8qPdV/SsRALRxuTNGrEIN2EAKk+V0XxSmp7khTO6WfpLHlcw==",
+  "dgSpecHash": "6B6AWaB4D0dUUVSnuL7sy+KWcs6sC2phg1b2m9xIjqQ6gw1Dax4JmfsqjSAvlckZYTv/elRUImF3w2kK3ViV1Q==",
   "success": true,
   "projectFilePath": "/workspaces/calculator/TestAPI/TestAPI.csproj",
   "expectedPackageFiles": [

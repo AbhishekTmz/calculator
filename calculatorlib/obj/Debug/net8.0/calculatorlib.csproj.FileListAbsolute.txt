@@ -1,0 +1,12 @@
+/workspaces/calculator/calculatorlib/bin/Debug/net8.0/calculatorlib.deps.json
+/workspaces/calculator/calculatorlib/bin/Debug/net8.0/calculatorlib.dll
+/workspaces/calculator/calculatorlib/bin/Debug/net8.0/calculatorlib.pdb
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/calculatorlib.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/calculatorlib.AssemblyInfoInputs.cache
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/calculatorlib.AssemblyInfo.cs
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/calculatorlib.csproj.CoreCompileInputs.cache
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/calculatorlib.sourcelink.json
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/calculatorlib.dll
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/refint/calculatorlib.dll
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/calculatorlib.pdb
+/workspaces/calculator/calculatorlib/obj/Debug/net8.0/ref/calculatorlib.dll

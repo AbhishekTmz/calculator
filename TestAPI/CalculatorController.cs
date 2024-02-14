@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Globalization;
-
+using calculatorlib;
 namespace MyApp.Namespace
 {
     [Route("[Controller]/[action]")]
@@ -15,33 +15,31 @@ namespace MyApp.Namespace
         [HttpGet]
         public decimal Add(decimal number1, decimal number2)
         {  
-           decimal AddResult = number1 + number2;
-            return AddResult;
+            return CalculatorOperator.Add(number1 , number2);
         }
         
         [HttpGet]
         public decimal Subtract(decimal number1, decimal number2)
         {  
-           decimal subractResult = number1 - number2;
-            return subractResult;
+         
+            return CalculatorOperator.Subtract(number1 , number2);
         }
         [HttpGet]
         public decimal Multiply(decimal number1, decimal number2)
         {  
-           decimal MultiplyResult = number1 * number2;
-            return MultiplyResult;
+            return CalculatorOperator.Multiply(number1 , number2);
         }
         [HttpGet]
         public decimal Divide(decimal number1, decimal number2)
         {  
-           decimal DivideResult = number1 / number2;
-            return DivideResult;
+          
+            return CalculatorOperator.Divide(number1 , number2);
         }
         [HttpGet]
         public decimal Modulo(decimal number1, decimal number2)
         {  
-           decimal ModuloResult = number1 % number2;
-            return ModuloResult;
+         
+            return CalculatorOperator.Modulo(number1 , number2);
       }
 
 }

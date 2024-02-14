@@ -224,3 +224,5 @@
 /workspaces/calculator/TestAPI/obj/Debug/net8.0/TestAPI.pdb
 /workspaces/calculator/TestAPI/obj/Debug/net8.0/TestAPI.genruntimeconfig.cache
 /workspaces/calculator/TestAPI/obj/Debug/net8.0/ref/TestAPI.dll
+/workspaces/calculator/TestAPI/bin/Debug/net8.0/calculatorlib.dll
+/workspaces/calculator/TestAPI/bin/Debug/net8.0/calculatorlib.pdb
